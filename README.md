@@ -4,6 +4,8 @@ TinyLayout is a C99 flexbox library distributed as **`tinylayout.h` and `tinylay
 
 # Warning - Vibe-coded AI slop
 
+# Example use
+
 This library has been entirely written by an LLM. The test suite passes but I didn't review it. Use at your own risk.
 
 ```c
